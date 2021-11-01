@@ -2,5 +2,6 @@
 
 /* Modified for 1st Commit */
 /* Changes for Feature02 */
-/* adding some Feat02 changes*/
-/* more Fear02 changes */
+/* adding some Feature changes*/
+/* more Feature changes */
+/* final Feature02 changes */
